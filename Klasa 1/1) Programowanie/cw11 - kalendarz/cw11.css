@@ -1,0 +1,87 @@
+body {
+    text-align: center;
+    background-color: rgb(228, 212, 212);
+}
+h1 {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    border-bottom: 1px rgb(179, 178, 236) solid;
+}
+#baner {
+    text-align: center;
+    height: 600px;
+    width: 700px;
+}
+#timer {
+    float: left;
+    width: 200px;
+    background-color: lightpink;
+    color: brown;
+    min-height: 40px;
+    text-align: center;
+    font-size: 1.7em;
+    padding: 6px;
+    font-weight: bold;
+}
+#btnWyb {
+    background-color: rgb(133, 180, 180);
+    text-align: center;
+}
+#start_stop {
+    float: left;
+    text-align: center;
+    margin-left: 40px;
+}
+#START {
+    background-color: green;
+}
+#STOP {
+    background-color: red;
+}
+#card {
+    text-align: center;
+    float: left;
+    width: 300px;
+    height: 400px;
+    background-color: rgb(238, 182, 182);
+    border: solid 2px brown;
+    box-shadow: grey 5px;
+    margin-left: 40px;
+    border-radius: 8px;
+}
+#wyb {
+    float: left;
+    margin-left: 40px;
+}
+#year {
+    font-size: 1.7em;
+    font-weight: bold;
+    margin-top: 20px;
+}
+#date {
+    font-family: 'Lobster', cursive;
+    font-size: 10em;
+    font-weight: bold;
+    margin-top: 20px;
+}
+#day {
+    font-family: 'Lobster', cursive;
+    font-size: 2em;
+    font-weight: bold;
+    margin-top: 10px;
+}
+#month {
+    font-family: 'Lobster', cursive;
+    font-size: 1.6em;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.sun {
+    color: red;
+}
+.sut {
+    color: green;
+}
+.normal {
+    color: blue;
+}

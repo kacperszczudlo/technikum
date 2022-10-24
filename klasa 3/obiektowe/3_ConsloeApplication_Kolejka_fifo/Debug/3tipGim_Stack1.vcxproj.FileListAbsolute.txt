@@ -1,0 +1,5 @@
+F:\klasa 3\obiektowe\1_ConsloeApplication_Stack1\Debug\3tipGim_Stack1.exe
+F:\klasa 3\obiektowe\2_ConsloeApplication_Stack1\Debug\3tipGim_Stack1.exe
+F:\klasa 3\obiektowe\3_ConsloeApplication_Kolejka_fifo\Debug\3tipGim_Stack1.exe
+C:\Users\Stach\Desktop\3_ConsloeApplication_Kolejka_fifo\Debug\3tipGim_Stack1.exe
+E:\s-kopec-tipg\klasa3\obiektowe\Kolejka_fifo\Debug\3tipGim_Stack1.exe

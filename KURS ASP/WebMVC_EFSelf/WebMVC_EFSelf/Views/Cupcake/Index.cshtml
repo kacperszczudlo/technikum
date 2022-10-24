@@ -1,0 +1,49 @@
+﻿@using WebMVC_EFSelf.Models
+@model IEnumerable<WebMVC_EFSelf.Models.Cupcake>
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Index</title>
+    <link type="text/css" rel="stylesheet" href="~/css/cupcakes-styles.css" />
+</head>
+<body>
+    <div class="container">
+        <div class="main-title">
+            <p class="into">Witamy w naszym sklepiku</p>
+        </div>
+        <div class="img-container">
+            @foreach (Cupcake item in Model)
+            {
+                <div class="photo-index-card">
+                    <h3 class="display-picture-title">
+                        " @Html.DisplayFor(modelItem => item.CupcakeType) "
+                    </h3>
+                    @if (item.ImageName != null)
+                    {
+                        <img class="photo-display-img" src="~/images/@item.ImageName" />
+                    }
+                    <div>
+                        <p class="display-label">
+                            @Html.DisplayNameFor(model => item.Description)
+                        </p>
+                        <br />
+                        <p class="display-field">
+                            @Html.DisplayFor(model => item.Description)
+                        </p>
+                    </div>
+                    <div>
+                        <a asp-action="Edit" asp-route-itemid="@item.CupcakeId">Edytuj</a> |
+                        <a asp-action="Details" asp-route-itemid="@item.CupcakeId">Szczegóły</a> |
+                        <a asp-action="Delete" asp-route-itemid="@item.CupcakeId">Usuń</a>
+                    </div>
+                </div>
+
+
+            }
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,42 @@
+
+body{
+    background-color: rgb(235, 221, 221);
+}
+h1{
+    text-align: center;
+    border-bottom: solid lightgrey 1px;
+    margin-bottom: 20px;
+}
+#wrapper{
+    display: flex;
+    flex-direction: row;
+}
+#dane{
+    width: 300px;
+}
+label{
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+button{
+    margin-left: 110px;
+    width: 140px;
+    padding: 5px;
+    box-shadow: rgb(161, 48, 48) 5px 5px 5px;
+}
+button img{
+    float: right;
+}
+#tab table{
+    border-collapse: collapse;
+    margin: 20px;
+}
+#tab td{
+    width: 22px;
+    height: 22px;
+    border: solid 1px red;
+    cursor: pointer;
+}

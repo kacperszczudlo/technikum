@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+#button{
+    background-color: rgb(2, 51, 2);
+    color: white;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+}
+#username{
+    border: 10px solid rgb(2, 51, 2);
+    border-radius: 5px;
+}
+#password{
+    border: 10px solid rgb(2, 51, 2);
+    border-radius: 5px;
+}
+#tlo{
+    margin: auto;
+    background-color: rgb(25, 124, 54);
+    width: 300px;
+    border-radius: 15px;
+}
+input{
+    margin: 7px;
+}
+button{
+    margin: 7px;
+}
+hr{
+    width: 400px;
+}

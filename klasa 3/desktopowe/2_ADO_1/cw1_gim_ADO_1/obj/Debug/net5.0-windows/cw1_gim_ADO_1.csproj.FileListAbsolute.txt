@@ -1,0 +1,61 @@
+E:\tools\GitHub\niepo_21_22\3ti_gim_desktopowe\cw1_gim_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\cw1_gim_ADO_1.exe
+E:\tools\GitHub\niepo_21_22\3ti_gim_desktopowe\cw1_gim_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\cw1_gim_ADO_1.deps.json
+E:\tools\GitHub\niepo_21_22\3ti_gim_desktopowe\cw1_gim_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\cw1_gim_ADO_1.runtimeconfig.json
+E:\tools\GitHub\niepo_21_22\3ti_gim_desktopowe\cw1_gim_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\cw1_gim_ADO_1.runtimeconfig.dev.json
+E:\tools\GitHub\niepo_21_22\3ti_gim_desktopowe\cw1_gim_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\cw1_gim_ADO_1.dll
+E:\tools\GitHub\niepo_21_22\3ti_gim_desktopowe\cw1_gim_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\ref\cw1_gim_ADO_1.dll
+E:\tools\GitHub\niepo_21_22\3ti_gim_desktopowe\cw1_gim_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\cw1_gim_ADO_1.pdb
+E:\tools\GitHub\niepo_21_22\3ti_gim_desktopowe\cw1_gim_ADO_1\cw1_gim_ADO_1\obj\Debug\net5.0-windows\cw1_gim_ADO_1.csproj.AssemblyReference.cache
+E:\tools\GitHub\niepo_21_22\3ti_gim_desktopowe\cw1_gim_ADO_1\cw1_gim_ADO_1\obj\Debug\net5.0-windows\cw1_gim_ADO_1.MainWindow.resources
+E:\tools\GitHub\niepo_21_22\3ti_gim_desktopowe\cw1_gim_ADO_1\cw1_gim_ADO_1\obj\Debug\net5.0-windows\cw1_gim_ADO_1.csproj.GenerateResource.cache
+E:\tools\GitHub\niepo_21_22\3ti_gim_desktopowe\cw1_gim_ADO_1\cw1_gim_ADO_1\obj\Debug\net5.0-windows\cw1_gim_ADO_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\tools\GitHub\niepo_21_22\3ti_gim_desktopowe\cw1_gim_ADO_1\cw1_gim_ADO_1\obj\Debug\net5.0-windows\cw1_gim_ADO_1.AssemblyInfoInputs.cache
+E:\tools\GitHub\niepo_21_22\3ti_gim_desktopowe\cw1_gim_ADO_1\cw1_gim_ADO_1\obj\Debug\net5.0-windows\cw1_gim_ADO_1.AssemblyInfo.cs
+E:\tools\GitHub\niepo_21_22\3ti_gim_desktopowe\cw1_gim_ADO_1\cw1_gim_ADO_1\obj\Debug\net5.0-windows\cw1_gim_ADO_1.csproj.CoreCompileInputs.cache
+E:\tools\GitHub\niepo_21_22\3ti_gim_desktopowe\cw1_gim_ADO_1\cw1_gim_ADO_1\obj\Debug\net5.0-windows\cw1_gim_ADO_1.dll
+E:\tools\GitHub\niepo_21_22\3ti_gim_desktopowe\cw1_gim_ADO_1\cw1_gim_ADO_1\obj\Debug\net5.0-windows\ref\cw1_gim_ADO_1.dll
+E:\tools\GitHub\niepo_21_22\3ti_gim_desktopowe\cw1_gim_ADO_1\cw1_gim_ADO_1\obj\Debug\net5.0-windows\cw1_gim_ADO_1.pdb
+E:\tools\GitHub\niepo_21_22\3ti_gim_desktopowe\cw1_gim_ADO_1\cw1_gim_ADO_1\obj\Debug\net5.0-windows\cw1_gim_ADO_1.genruntimeconfig.cache
+E:\tools\GitHub\niepo_21_22\3ti_gim_desktopowe\cw1_gim_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\images\lis.jpg
+E:\tools\GitHub\niepo_21_22\3ti_gim_desktopowe\cw1_gim_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\images\sowa.jpg
+E:\tools\GitHub\niepo_21_22\3ti_gim_desktopowe\cw1_gim_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\images\zebra.jpg
+E:\tools\GitHub\niepo_21_22\3ti_gim_desktopowe\cw1_gim_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\tools\GitHub\niepo_21_22\3ti_gim_desktopowe\cw1_gim_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\tools\GitHub\niepo_21_22\3ti_gim_desktopowe\cw1_gim_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\tools\GitHub\niepo_21_22\3ti_gim_desktopowe\cw1_gim_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\tools\GitHub\niepo_21_22\3ti_gim_desktopowe\cw1_gim_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\tools\GitHub\niepo_21_22\3ti_gim_desktopowe\cw1_gim_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\tools\GitHub\niepo_21_22\3ti_gim_desktopowe\cw1_gim_ADO_1\cw1_gim_ADO_1\obj\Debug\net5.0-windows\cw1_gim_ADO_1.csproj.CopyComplete
+E:\tools\GitHub\niepo_21_22\3ti_gim_desktopowe\cw1_gim_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\images\no_image.jpg
+E:\tools\GitHub\niepo_21_22\3ti_gim_desktopowe\cw1_gim_ADO_1\cw1_gim_ADO_1\obj\Debug\net5.0-windows\cw1_gim_ADO_1.Properties.Resources.resources
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\obj\Debug\net5.0-windows\cw1_gim_ADO_1.csproj.AssemblyReference.cache
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\obj\Debug\net5.0-windows\cw1_gim_ADO_1.MainWindow.resources
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\obj\Debug\net5.0-windows\cw1_gim_ADO_1.Properties.Resources.resources
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\obj\Debug\net5.0-windows\cw1_gim_ADO_1.csproj.GenerateResource.cache
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\obj\Debug\net5.0-windows\cw1_gim_ADO_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\obj\Debug\net5.0-windows\cw1_gim_ADO_1.AssemblyInfoInputs.cache
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\obj\Debug\net5.0-windows\cw1_gim_ADO_1.AssemblyInfo.cs
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\obj\Debug\net5.0-windows\cw1_gim_ADO_1.csproj.CoreCompileInputs.cache
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\obj\Debug\net5.0-windows\cw1_gim_ADO_1.dll
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\obj\Debug\net5.0-windows\ref\cw1_gim_ADO_1.dll
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\obj\Debug\net5.0-windows\cw1_gim_ADO_1.pdb
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\images\lis.jpg
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\images\sowa.jpg
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\images\zebra.jpg
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\images\no_image.jpg
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\cw1_gim_ADO_1.exe
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\cw1_gim_ADO_1.deps.json
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\cw1_gim_ADO_1.runtimeconfig.json
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\cw1_gim_ADO_1.runtimeconfig.dev.json
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\cw1_gim_ADO_1.dll
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\ref\cw1_gim_ADO_1.dll
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\cw1_gim_ADO_1.pdb
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\obj\Debug\net5.0-windows\cw1_gim_ADO_1.csproj.CopyComplete
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\obj\Debug\net5.0-windows\cw1_gim_ADO_1.genruntimeconfig.cache
+F:\klasa 3\desktopowe\2_ADO_1\cw1_gim_ADO_1\obj\Debug\net5.0-windows\cw1_gim_ADO_1.AddNew.resources

@@ -1,0 +1,40 @@
+C:\Users\student\SecondEmptyGim\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\student\SecondEmptyGim\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\student\SecondEmptyGim\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\student\SecondEmptyGim\bin\Debug\netcoreapp3.1\SecondEmptyGim.exe
+C:\Users\student\SecondEmptyGim\bin\Debug\netcoreapp3.1\SecondEmptyGim.deps.json
+C:\Users\student\SecondEmptyGim\bin\Debug\netcoreapp3.1\SecondEmptyGim.runtimeconfig.json
+C:\Users\student\SecondEmptyGim\bin\Debug\netcoreapp3.1\SecondEmptyGim.runtimeconfig.dev.json
+C:\Users\student\SecondEmptyGim\bin\Debug\netcoreapp3.1\SecondEmptyGim.dll
+C:\Users\student\SecondEmptyGim\bin\Debug\netcoreapp3.1\SecondEmptyGim.pdb
+C:\Users\student\SecondEmptyGim\obj\Debug\netcoreapp3.1\SecondEmptyGim.csprojAssemblyReference.cache
+C:\Users\student\SecondEmptyGim\obj\Debug\netcoreapp3.1\SecondEmptyGim.AssemblyInfoInputs.cache
+C:\Users\student\SecondEmptyGim\obj\Debug\netcoreapp3.1\SecondEmptyGim.AssemblyInfo.cs
+C:\Users\student\SecondEmptyGim\obj\Debug\netcoreapp3.1\SecondEmptyGim.csproj.CoreCompileInputs.cache
+C:\Users\student\SecondEmptyGim\obj\Debug\netcoreapp3.1\SecondEmptyGim.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\student\SecondEmptyGim\obj\Debug\netcoreapp3.1\SecondEmptyGim.RazorTargetAssemblyInfo.cache
+C:\Users\student\SecondEmptyGim\obj\Debug\netcoreapp3.1\staticwebassets\SecondEmptyGim.StaticWebAssets.Manifest.cache
+C:\Users\student\SecondEmptyGim\obj\Debug\netcoreapp3.1\staticwebassets\SecondEmptyGim.StaticWebAssets.xml
+C:\Users\student\SecondEmptyGim\obj\Debug\netcoreapp3.1\SecondEmptyGim.dll
+C:\Users\student\SecondEmptyGim\obj\Debug\netcoreapp3.1\SecondEmptyGim.pdb
+C:\Users\student\SecondEmptyGim\obj\Debug\netcoreapp3.1\SecondEmptyGim.genruntimeconfig.cache
+F:\!SQL\Klasa 2\Programowanie\cmd\SecondEmptyGim\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\!SQL\Klasa 2\Programowanie\cmd\SecondEmptyGim\bin\Debug\netcoreapp3.1\appsettings.json
+F:\!SQL\Klasa 2\Programowanie\cmd\SecondEmptyGim\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\!SQL\Klasa 2\Programowanie\cmd\SecondEmptyGim\bin\Debug\netcoreapp3.1\SecondEmptyGim.exe
+F:\!SQL\Klasa 2\Programowanie\cmd\SecondEmptyGim\bin\Debug\netcoreapp3.1\SecondEmptyGim.deps.json
+F:\!SQL\Klasa 2\Programowanie\cmd\SecondEmptyGim\bin\Debug\netcoreapp3.1\SecondEmptyGim.runtimeconfig.json
+F:\!SQL\Klasa 2\Programowanie\cmd\SecondEmptyGim\bin\Debug\netcoreapp3.1\SecondEmptyGim.runtimeconfig.dev.json
+F:\!SQL\Klasa 2\Programowanie\cmd\SecondEmptyGim\bin\Debug\netcoreapp3.1\SecondEmptyGim.dll
+F:\!SQL\Klasa 2\Programowanie\cmd\SecondEmptyGim\bin\Debug\netcoreapp3.1\SecondEmptyGim.pdb
+F:\!SQL\Klasa 2\Programowanie\cmd\SecondEmptyGim\obj\Debug\netcoreapp3.1\SecondEmptyGim.csprojAssemblyReference.cache
+F:\!SQL\Klasa 2\Programowanie\cmd\SecondEmptyGim\obj\Debug\netcoreapp3.1\SecondEmptyGim.AssemblyInfoInputs.cache
+F:\!SQL\Klasa 2\Programowanie\cmd\SecondEmptyGim\obj\Debug\netcoreapp3.1\SecondEmptyGim.AssemblyInfo.cs
+F:\!SQL\Klasa 2\Programowanie\cmd\SecondEmptyGim\obj\Debug\netcoreapp3.1\SecondEmptyGim.csproj.CoreCompileInputs.cache
+F:\!SQL\Klasa 2\Programowanie\cmd\SecondEmptyGim\obj\Debug\netcoreapp3.1\SecondEmptyGim.MvcApplicationPartsAssemblyInfo.cache
+F:\!SQL\Klasa 2\Programowanie\cmd\SecondEmptyGim\obj\Debug\netcoreapp3.1\SecondEmptyGim.RazorTargetAssemblyInfo.cache
+F:\!SQL\Klasa 2\Programowanie\cmd\SecondEmptyGim\obj\Debug\netcoreapp3.1\staticwebassets\SecondEmptyGim.StaticWebAssets.Manifest.cache
+F:\!SQL\Klasa 2\Programowanie\cmd\SecondEmptyGim\obj\Debug\netcoreapp3.1\staticwebassets\SecondEmptyGim.StaticWebAssets.xml
+F:\!SQL\Klasa 2\Programowanie\cmd\SecondEmptyGim\obj\Debug\netcoreapp3.1\SecondEmptyGim.dll
+F:\!SQL\Klasa 2\Programowanie\cmd\SecondEmptyGim\obj\Debug\netcoreapp3.1\SecondEmptyGim.pdb
+F:\!SQL\Klasa 2\Programowanie\cmd\SecondEmptyGim\obj\Debug\netcoreapp3.1\SecondEmptyGim.genruntimeconfig.cache

@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(156, 204, 236);
+    color: black;
+}
+
+label {
+    text-align: center;
+    display: block;
+    margin: 10px 0;
+    overflow: hidden;
+}
+
+input {
+    text-align: center;
+    width: 150px;
+    margin: 0 0 0 5px;
+}
+
+.save {
+    display: block;
+    width: 100px;
+    margin: 20px auto 0 auto;
+}
+.update {
+    display: block;
+    width: 100px;
+    margin: 20px auto 0 auto;
+}
+
+.edit {
+    display: block;
+    width: 50px;
+    margin: 20px auto 0 auto;
+}
+
+.delete {
+    display: block;
+    width: 50px;
+    margin: 20px auto 0 auto;
+}
+
+button {
+    background-color: rgb(4, 196, 230);
+}
+
+form {
+    text-align: center;
+}
+
+table, tr, th, td {
+    color: white;
+    border: white solid 1px;
+    background-image: url(./images/tlo_tabeli.jpg) 
+}
+
+label {
+    font-size: large;
+    font-style: italic;
+}

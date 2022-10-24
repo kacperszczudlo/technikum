@@ -1,0 +1,104 @@
+body {
+    text-align: center;
+    background-color: rgb(214, 161, 142);
+}
+
+#pierwsza {
+    margin: auto;
+    width: 700px;
+    background-color: #d1bdbd;
+    text-align: center;
+    padding: 20px;
+    border: rgb(190, 120, 120) 1px solid;
+    border-radius: 10px;
+}
+
+#pierwsza:hover {
+    animation: pierwsza 3s;
+}
+
+@keyframes pierwsza {
+    from {
+        background-color: white;
+        color: black
+    }
+
+    to {
+        background-color: rgb(163, 134, 79);
+        color: rgb(207, 29, 29)
+    }
+}
+
+h1 {
+    font-family: 'Serif', cursive;
+}
+
+#druga {
+    margin: auto;
+    width: 500px;
+    background-color: #d1bdbd;
+    text-align: center;
+    padding: 20px;
+    border: rgb(179, 72, 72) 1px solid;
+    border-radius: 10px;
+}
+
+#trzecia {
+    margin: auto;
+    width: 500px;
+    background-color: #d1bdbd;
+    text-align: center;
+    padding: 20px;
+    border: rgb(179, 72, 72) 1px solid;
+    border-radius: 10px;
+}
+#czwarta {
+    margin: auto;
+    width: 500px;
+    background-color: #d1bdbd;
+    text-align: center;
+    padding: 20px;
+    border: rgb(179, 72, 72) 1px solid;
+    border-radius: 10px;
+}
+#piąta {
+    margin: auto;
+    width: 500px;
+    background-color: #d1bdbd;
+    text-align: center;
+    padding: 20px;
+    border: rgb(179, 72, 72) 1px solid;
+    border-radius: 10px;
+}
+#szósta {
+    margin: auto;
+    width: 500px;
+    background-color: #d1bdbd;
+    text-align: center;
+    padding: 20px;
+    border: rgb(179, 72, 72) 1px solid;
+    border-radius: 10px;
+}
+
+hr {
+    width: 700px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(68, 68, 117);
+    padding: 20px;
+}
+
+table {
+    margin: auto;
+    width: 700px;
+    border-collapse: collapse;
+    background-color: #d1bdbd;
+}
+
+table th,
+td {
+    border: black solid 1px;
+    padding: 5px;
+}

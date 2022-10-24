@@ -1,0 +1,19 @@
+.display_block,
+.display_inline,
+.display_inline_block {
+    width: 200px;
+    height: 200px;
+    color: white;
+}
+
+.display_inline {
+    display: inline;
+}
+
+.display_inline_block {
+    display: inline-block;
+}
+
+body {
+    background-color: rgb(212, 158, 158);
+}

@@ -1,0 +1,38 @@
+h1{
+    text-align : center;
+    font-size: 2.5em;
+    border-bottom: solid 1px teal;
+    margin-bottom: 30px;
+}
+div{margin: 20px;}
+input{
+    width: 200px;
+    border:teal 1px solid;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+input:hover[type="button"]{
+    background-color: teal;
+    color: lime;
+    border: lime 1px solid;
+}
+label{
+    display: inline-block;
+    width: 200px;
+    text-align: right;
+    padding-right: 5px
+}
+#wynik{
+    min-height: 30px;
+    margin-left: 150px;
+    width: 500px;
+    border: solid 2px teal;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+.success{color: green;font-weight: bolder;}
+.less{color: lightskyblue;}
+.more{color: maroon}
+.error{color: red;font-weight: bold;}

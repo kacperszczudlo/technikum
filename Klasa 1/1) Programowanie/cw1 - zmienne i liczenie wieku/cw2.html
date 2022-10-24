@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Ćwiczenie 1 cz. 2</title>
+        <meta charset="UTF-8">
+        
+    </head>
+    <body>
+    <h1>Ćwiczenie 1 cz. 2</h1>
+    <script type="text/javascript">
+    let imie = prompt("Podaj imie:", "Kacper");
+    console.log("wartość:"+imie+" typ: "+typeof(imie));
+    if(imie==null) {
+        document.write("<h2 style='color:red;'>Brak imienia</h2>")
+    } else if(imie.trim().lenght>1) {
+        let rok = new Date().getFullYear();
+    document.write("<h2>Witaj: "+imie+" mamy rok: "+rok+"</h2>");
+    }else{
+        document.write("<h2 style='color:blue;'>Co to za imie!!!!!!</h2>");
+    }
+
+    </script>
+    </body>
+</html>

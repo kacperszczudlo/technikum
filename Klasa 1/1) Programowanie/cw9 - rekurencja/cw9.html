@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Rekurencja - wstęp</title>
+    <style>
+        body {
+            background: rgb(136, 110, 110);
+            text-align: center;
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Rekurencja - wstęp</h1>
+    <script type="text/javascript">
+        function Repeat(ile) {
+            document.write("ile = " + ile + "<br>");//rozwijanie
+            if (ile < 10) Repeat(ile + 1);
+            document.write("po ifie ile = " + ile + "<br>");//zwijanie  
+        }
+        function Reszta(n){
+            if(n>1) Reszta(Math.floor(n/2));
+            document.write(n%2);
+        }
+        //Reszta(10)
+        //document.write("<br>")
+        //Reszta(3)
+        //document.write("<br>")
+        //Reszta(16)
+        //document.write("<br>")
+        //Reszta(1)
+        //document.write("<br>")
+        //Reszta(2)
+        //document.write("<br>")
+        //Reszta(3)
+        //document.write("<br>")
+        function SilniaRek(n){
+            if (n<1) return 1;
+            return SilniaRek(n-1)*n;
+        }
+        function SilniaIter(n){
+
+        }
+        //Repeat(0);
+        Reszta(10);
+            document.write("<br>");
+            let n = 5;
+            document.write(n+"! = "+SilniaRek(n)+"<br>");
+        
+    </script>
+</body>
+
+</html>

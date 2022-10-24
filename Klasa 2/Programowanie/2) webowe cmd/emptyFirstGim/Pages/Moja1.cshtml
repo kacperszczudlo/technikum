@@ -1,0 +1,26 @@
+﻿@page
+@model MyApp.Namespace.Moja1Model
+@{
+}
+<!DOCTYPE html>
+<html lang="pl">
+    <head>
+        <title>MUJ 1</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="~/site.css" rel="stylesheet">
+    </head>
+    <body>
+    <h1>KACPER SZCZUDŁO</h1>
+    <h1>2 TIP/G</h1>
+    <div>
+    <a href="https://pl.wikipedia.org/wiki/Kim_Dzong_Un"><img src="~/medai/AndrzejDuda.png"></a>
+    </div>
+    <p>AKTUALNA DATA: @DateTime.Now</p>
+    <ol>
+    @for(int i = 1;i<10;i++){
+        <li>Siema</li>
+    }
+    </ol>
+    </body>
+</html>

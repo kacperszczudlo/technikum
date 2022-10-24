@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Pętle w JS</title>
+        <meta charset="UTF-8">    
+        <style>
+        ul{list-style-type: square;}
+        </style>   
+    </head>
+    <body>
+        <h1>Pętla for( ; ; ){...}</h1>
+        <script type="text/javascript">
+         for(let i=1;i<=6;i++){
+            document.write(`<h${i}>Nagłówek nr ${i}</h${i}>`);
+        }       
+    let ile = parseInt(prompt("Podaj ilość elementów:","10"));
+    let text = prompt("Podaj tekst:","ala ma kota");
+        if(!isNaN(ile)&& ile>0 && text!=null && text.trim().length>0){
+            document.write("<ul>");
+         for(let i=0;i<ile;i++){
+            document.write(`<li>${text}</li>`);
+        }
+            document.write("<ul>");
+        }else{
+            document.write("<p>Dane muszą byc poptrawne!!!!!!!!!!</p>");
+        }
+         </script>
+    </body>
+</html>

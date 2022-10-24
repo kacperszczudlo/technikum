@@ -1,0 +1,128 @@
+D:\2TIP_G\dotnetcore\emptyFirstGim\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\2TIP_G\dotnetcore\emptyFirstGim\bin\Debug\netcoreapp3.1\appsettings.json
+D:\2TIP_G\dotnetcore\emptyFirstGim\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\2TIP_G\dotnetcore\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.exe
+D:\2TIP_G\dotnetcore\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.deps.json
+D:\2TIP_G\dotnetcore\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.runtimeconfig.json
+D:\2TIP_G\dotnetcore\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.runtimeconfig.dev.json
+D:\2TIP_G\dotnetcore\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.dll
+D:\2TIP_G\dotnetcore\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.pdb
+D:\2TIP_G\dotnetcore\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.csprojAssemblyReference.cache
+D:\2TIP_G\dotnetcore\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.AssemblyInfoInputs.cache
+D:\2TIP_G\dotnetcore\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.AssemblyInfo.cs
+D:\2TIP_G\dotnetcore\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.csproj.CoreCompileInputs.cache
+D:\2TIP_G\dotnetcore\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.MvcApplicationPartsAssemblyInfo.cache
+D:\2TIP_G\dotnetcore\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.RazorTargetAssemblyInfo.cache
+D:\2TIP_G\dotnetcore\emptyFirstGim\obj\Debug\netcoreapp3.1\staticwebassets\emptyFirstGim.StaticWebAssets.Manifest.cache
+D:\2TIP_G\dotnetcore\emptyFirstGim\obj\Debug\netcoreapp3.1\staticwebassets\emptyFirstGim.StaticWebAssets.xml
+D:\2TIP_G\dotnetcore\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.dll
+D:\2TIP_G\dotnetcore\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.pdb
+D:\2TIP_G\dotnetcore\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.genruntimeconfig.cache
+D:\2TIP_G\dotnetcore\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.Views.dll
+D:\2TIP_G\dotnetcore\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.Views.pdb
+D:\2TIP_G\dotnetcore\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.RazorAssemblyInfo.cache
+D:\2TIP_G\dotnetcore\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.RazorAssemblyInfo.cs
+D:\2TIP_G\dotnetcore\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.TagHelpers.input.cache
+D:\2TIP_G\dotnetcore\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.TagHelpers.output.cache
+D:\2TIP_G\dotnetcore\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.RazorCoreGenerate.cache
+D:\2TIP_G\dotnetcore\emptyFirstGim\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\2TIP_G\dotnetcore\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.RazorTargetAssemblyInfo.cs
+D:\2TIP_G\dotnetcore\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.Views.pdb
+D:\2TIP_G\dotnetcore\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.csproj.CopyComplete
+D:\2TIP_G\dotnetcore\emptyFirstGim\obj\Debug\netcoreapp3.1\Razor\Pages\Moja1.cshtml.g.cs
+D:\1TPg\programowanie webowe\emptyFirstGim\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\1TPg\programowanie webowe\emptyFirstGim\bin\Debug\netcoreapp3.1\appsettings.json
+D:\1TPg\programowanie webowe\emptyFirstGim\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\1TPg\programowanie webowe\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.exe
+D:\1TPg\programowanie webowe\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.deps.json
+D:\1TPg\programowanie webowe\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.runtimeconfig.json
+D:\1TPg\programowanie webowe\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.runtimeconfig.dev.json
+D:\1TPg\programowanie webowe\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.dll
+D:\1TPg\programowanie webowe\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.pdb
+D:\1TPg\programowanie webowe\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.Views.dll
+D:\1TPg\programowanie webowe\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.Views.pdb
+D:\1TPg\programowanie webowe\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.csprojAssemblyReference.cache
+D:\1TPg\programowanie webowe\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.AssemblyInfoInputs.cache
+D:\1TPg\programowanie webowe\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.AssemblyInfo.cs
+D:\1TPg\programowanie webowe\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.csproj.CoreCompileInputs.cache
+D:\1TPg\programowanie webowe\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.MvcApplicationPartsAssemblyInfo.cache
+D:\1TPg\programowanie webowe\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.RazorAssemblyInfo.cache
+D:\1TPg\programowanie webowe\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.RazorAssemblyInfo.cs
+D:\1TPg\programowanie webowe\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.TagHelpers.input.cache
+D:\1TPg\programowanie webowe\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.TagHelpers.output.cache
+D:\1TPg\programowanie webowe\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.RazorCoreGenerate.cache
+D:\1TPg\programowanie webowe\emptyFirstGim\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\1TPg\programowanie webowe\emptyFirstGim\obj\Debug\netcoreapp3.1\Razor\Pages\Moja1.cshtml.g.cs
+D:\1TPg\programowanie webowe\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.RazorTargetAssemblyInfo.cache
+D:\1TPg\programowanie webowe\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.RazorTargetAssemblyInfo.cs
+D:\1TPg\programowanie webowe\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.Views.pdb
+D:\1TPg\programowanie webowe\emptyFirstGim\obj\Debug\netcoreapp3.1\staticwebassets\emptyFirstGim.StaticWebAssets.Manifest.cache
+D:\1TPg\programowanie webowe\emptyFirstGim\obj\Debug\netcoreapp3.1\staticwebassets\emptyFirstGim.StaticWebAssets.xml
+D:\1TPg\programowanie webowe\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.dll
+D:\1TPg\programowanie webowe\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.pdb
+D:\1TPg\programowanie webowe\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.genruntimeconfig.cache
+D:\1TPg\programowanie webowe\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.csproj.CopyComplete
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\bin\Debug\netcoreapp3.1\appsettings.json
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.exe
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.deps.json
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.runtimeconfig.json
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.runtimeconfig.dev.json
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.dll
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.pdb
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.Views.dll
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.Views.pdb
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.csprojAssemblyReference.cache
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.AssemblyInfoInputs.cache
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.AssemblyInfo.cs
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.csproj.CoreCompileInputs.cache
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.MvcApplicationPartsAssemblyInfo.cache
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.RazorAssemblyInfo.cache
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.RazorAssemblyInfo.cs
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.TagHelpers.input.cache
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.TagHelpers.output.cache
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.RazorCoreGenerate.cache
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\obj\Debug\netcoreapp3.1\Razor\Pages\Moja1.cshtml.g.cs
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.RazorTargetAssemblyInfo.cache
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.RazorTargetAssemblyInfo.cs
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.Views.pdb
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\obj\Debug\netcoreapp3.1\staticwebassets\emptyFirstGim.StaticWebAssets.Manifest.cache
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\obj\Debug\netcoreapp3.1\staticwebassets\emptyFirstGim.StaticWebAssets.xml
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.dll
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.pdb
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.genruntimeconfig.cache
+F:\!SQL\Klasa 2\Programowanie\cmd\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.csproj.CopyComplete
+F:\bigSRAKA\emptyFirstGim\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\bigSRAKA\emptyFirstGim\bin\Debug\netcoreapp3.1\appsettings.json
+F:\bigSRAKA\emptyFirstGim\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\bigSRAKA\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.exe
+F:\bigSRAKA\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.deps.json
+F:\bigSRAKA\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.runtimeconfig.json
+F:\bigSRAKA\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.runtimeconfig.dev.json
+F:\bigSRAKA\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.dll
+F:\bigSRAKA\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.pdb
+F:\bigSRAKA\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.Views.dll
+F:\bigSRAKA\emptyFirstGim\bin\Debug\netcoreapp3.1\emptyFirstGim.Views.pdb
+F:\bigSRAKA\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.csprojAssemblyReference.cache
+F:\bigSRAKA\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.AssemblyInfoInputs.cache
+F:\bigSRAKA\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.AssemblyInfo.cs
+F:\bigSRAKA\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.csproj.CoreCompileInputs.cache
+F:\bigSRAKA\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.MvcApplicationPartsAssemblyInfo.cache
+F:\bigSRAKA\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.RazorAssemblyInfo.cache
+F:\bigSRAKA\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.RazorAssemblyInfo.cs
+F:\bigSRAKA\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.TagHelpers.input.cache
+F:\bigSRAKA\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.TagHelpers.output.cache
+F:\bigSRAKA\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.RazorCoreGenerate.cache
+F:\bigSRAKA\emptyFirstGim\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+F:\bigSRAKA\emptyFirstGim\obj\Debug\netcoreapp3.1\Razor\Pages\Moja1.cshtml.g.cs
+F:\bigSRAKA\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.RazorTargetAssemblyInfo.cache
+F:\bigSRAKA\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.RazorTargetAssemblyInfo.cs
+F:\bigSRAKA\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.Views.pdb
+F:\bigSRAKA\emptyFirstGim\obj\Debug\netcoreapp3.1\staticwebassets\emptyFirstGim.StaticWebAssets.Manifest.cache
+F:\bigSRAKA\emptyFirstGim\obj\Debug\netcoreapp3.1\staticwebassets\emptyFirstGim.StaticWebAssets.xml
+F:\bigSRAKA\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.dll
+F:\bigSRAKA\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.pdb
+F:\bigSRAKA\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.genruntimeconfig.cache
+F:\bigSRAKA\emptyFirstGim\obj\Debug\netcoreapp3.1\emptyFirstGim.csproj.CopyComplete

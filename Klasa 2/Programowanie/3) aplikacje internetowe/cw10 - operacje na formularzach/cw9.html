@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+</head>
+<body>
+    <div class="contrainer-fluid">
+    <h1 class="badge-info p-3 text-center">Operacje na formularzach</h1>
+    <form action="wynik.php" method="POST">
+        <div class="form-grup">
+            <label for="a">Podaj a:</label>
+            <input class="form-control" type="number" name="a" id="a"></input>
+        </div>
+        <div class="form-grup">
+            <label for="b">Podaj b:</label>
+            <input class="form-control" type="number" name="b" id="b"></input>
+        </div>
+        <div class="form-chech ml-4">
+            <input class="form-check-input" type="radio" name="wyb" id="+" value="+" checked=''>
+            <label class="form-check-label" for="+">Dodaj</label>
+        </div>
+        <div class="form-chech ml-4">
+            <input class="form-check-input" type="radio" name="wyb" id="-" value="-" checked=''>
+            <label class="form-check-label" for="-">Odejmij</label>
+        </div>
+        <div class="form-chech ml-4">
+            <input class="form-check-input" type="radio" name="wyb" id="*" value="*" checked=''>
+            <label class="form-check-label" for="*">Pomnóż</label>
+        </div>
+        <div class="form-chech ml-4">
+            <input class="form-check-input" type="radio" name="wyb" id="/" value="/" checked=''>
+            <label class="form-check-label" for="/">Podziel</label>
+        </div>
+        <div class="form-grup mt-3">
+            <input class="btn btn-lg btn-light" type="submit" value="Zapisz">
+        </div>
+    </form>
+
+</div>
+</body>
+</html>

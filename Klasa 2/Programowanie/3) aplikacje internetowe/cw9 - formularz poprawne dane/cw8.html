@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+    <form method="GET" action="wynik.php">
+        <div>
+            <label for="imie">
+                <input type="text" name="imie">
+            </label>
+        </div>
+        <div>
+            <label for="nazwisko">
+                <input type="text" name="nazwisko">
+            </label>
+        </div>
+        <div>
+            <label for="data">
+                <input type="date" name="data">
+            </label>
+        </div>
+        <input type="submit" value="zapisz">
+    </form>
+    <script>
+        window.onload = function(){
+            document.querySelector("#data").valueAsData = new Date();
+        }
+    </script>
+</body>
+
+</html>

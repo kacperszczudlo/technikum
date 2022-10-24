@@ -1,0 +1,26 @@
+h1 {
+    color: rgb(4, 37, 65);
+    text-align : center;
+    font-size: 2.5em;
+    border-bottom: solid 1px rgb(4, 26, 88);
+    margin-bottom: 30px
+}
+input {
+    background: rgb(174, 223, 152);
+    width: 250px;
+    border:rgb(4, 63, 63) 1px solid;
+    border-radius: 30px;
+    padding: 5px;
+}
+input:hover[type="button"]{
+    background-color: rgb(163, 6, 6);
+    color: lime;
+    border: lime 1px solid;
+}
+body {
+    background: rgb(42, 126, 117);
+}
+div {
+    margin: 50px;
+    text-align: left;
+}

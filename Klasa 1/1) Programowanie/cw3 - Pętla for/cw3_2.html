@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Pętle w JavaScript</title>
+        <meta charset="UTF-8">    
+        <style> 
+        ul{list-style-type: lower-alpha;} 
+        body{
+            background-color: coral;
+        }
+        </style>   
+    </head>
+    <body> 
+        <h1  style= 'color:#1bdafc; text-align: center;'>Pętla for( ; ; ){...} - ZADANIE</h1>
+        <script type="text/javascript">              
+    let imie =prompt("Podaj imie","Kacper");
+    let nazwisko =prompt("Podaj nazwisko"," Szczudło");
+    let ile = parseInt(prompt("Podaj ile chcesz mieć wyświetlonych dzynksów"));
+    var napis = nazwisko+imie;
+    var liter = napis.length;
+    if(isNaN(imie)&&isNaN(nazwisko)&&(imie&&nazwisko)!=null&&(imie&&nazwisko).trim().length>0&&!isNaN(ile)&& ile>=1 ) {
+            document.write("<h1>Oto twoje imie</h1><ul>");
+    for(let i=0;i<ile;i++) { //instrukcje, które będą się powtarzać(1.nadawanie początkowych wartości zmiennym 2.warunek kończący pętlę for 3.zwiększenie/zmniejszenie licznika pętli)
+            document.write(`<li style= 'color: #184404'>${imie}${nazwisko}</li>`);
+        } //Listy nienumerowane <ul> i numerowane <ol>
+            document.write("<ul>");
+    }else{
+            document.write("<p style= 'color: #fd0404; text-align: center;'>Dane muszą byc poptrawne!!!!!!!!!!</p>");
+        }
+    </script>
+    </body>
+</html>
+<!--skrypt pytający o imie i nazwisko (2x)
+        lista numerowana malymi literami a b c ...
+        a, Adam Małysz .... -->
+<!--  function myFunction() {
+    var txt;
+    var r = confirm("Press a button!");
+    if (r == true) {
+    txt = "You pressed OK!";
+  } else {
+    txt = "You pressed Cancel!";
+  }
+  document.getElementById("demo").innerHTML = txt;
+  }-->
+    

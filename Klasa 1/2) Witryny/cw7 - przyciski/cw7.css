@@ -1,0 +1,78 @@
+body{
+    text-align: center;
+    background-color: rgb(219, 157, 157); 
+    color: white;
+    padding: 20px;
+}
+hr{
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 30px;
+}
+img{
+    text-align: center;
+    margin: 50px;
+}
+#btn{
+    height: 70px;
+    width: 300px;
+}
+#btn:hover{
+    cursor: pointer;
+}
+#btnWyb {
+    background-color: rgb(133, 180, 180);
+    text-align: center;
+}
+#start_stop {
+    float: left;
+    text-align: center;
+    margin-left: 40px;
+}
+#card {
+    padding: 20px;
+    text-align: center;
+    width: 300px;
+    height: 400px;
+    background-color: rgb(238, 182, 182);
+    border: solid 2px brown;
+    box-shadow: grey 5px;
+    margin: auto;
+    border-radius: 8px;
+}
+#wyb {
+    padding: 20px;
+}
+#year {
+    font-size: 1.7em;
+    font-weight: bold;
+    margin-top: 20px;
+}
+#date {
+    font-family: 'Lobster', cursive;
+    font-size: 10em;
+    font-weight: bold;
+    margin-top: 20px;
+}
+#day {
+    font-family: 'Lobster', cursive;
+    font-size: 2em;
+    font-weight: bold;
+    margin-top: 10px;
+}
+#month {
+    font-family: 'Lobster', cursive;
+    font-size: 1.6em;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.sun {
+    color: red;
+}
+.sut {
+    color: green;
+}
+.normal {
+    color: blue;
+}
+

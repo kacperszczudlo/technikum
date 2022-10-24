@@ -1,0 +1,20 @@
+p.p_1,
+p.p_2 {
+    position: relative;
+}
+
+p.p_1 {
+    left: 50px;
+    top: 10px;
+    border: 2px solid green;
+}
+
+p.p_2 {
+    left: 150px;
+    top: 18px;
+    border: 2px solid red;
+}
+
+body {
+    background-color: rgb(212, 158, 158);
+}

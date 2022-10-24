@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ćwiczenie 4</title>
+</head>
+<body>
+   <h1>Ćwiczenie 4</h1> 
+   <script type="text/javascript">    
+let i=0;
+do{
+    i++;//zwiększanie zmiennej "i" o jeden 1 2 3 4
+    const losowa = Math.random(); //losowanie i wstawianie do "losowa"
+
+    document.write(Math.floor(losowa*100)+" "); //floor(2.7) -> 2
+}while(i<20);
+     document.write("<hr>");
+let losowa = 0;
+let ile = 0;
+let suma = 0;
+let srednia = 0;
+let mini = Number.MAX_VALUE;
+let maxi = Number.MIN_VALUE;
+do{
+     losowa = Math.floor(Math.random()*100);
+     document.write(losowa+" ");
+if(losowa!= 0) {
+        ile++; //ile = ile+1;
+        suma += losowa; // suma = suma + losowa;
+        srednia = suma/ile; // średnia = suma / ile;
+        if(losowa<mini) mini = losowa;
+        if(losowa>maxi) maxi = losowa;
+    }
+}while(losowa!= 0);
+if (ile !=0) {
+     document.write("<p>Ilość wylosowanych liczb: "+ile+"</p>");
+     document.write("<p>Suma liczb: "+suma+"</p>");
+     document.write("<p>Średnia liczb: "+srednia.toFixed(2)+"</p>");
+     document.write("<p>Największa liczba: "+maxi+"</p>");
+     document.write("<p>Najmniejsza liczba: "+mini+"</p>");
+}else{
+    document.write("<p>Zbiór pusty</p>");
+}
+</script>
+</body>
+</html>

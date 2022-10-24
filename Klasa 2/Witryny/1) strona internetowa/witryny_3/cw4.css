@@ -1,0 +1,24 @@
+div.rama {
+    display: block;
+    position: relative;
+    width: 870px;
+    height: 600px;
+    background-color: transparent;
+}
+
+div.rama>div.warstwa {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 870px;
+    height: 600px;
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-color: transparent;
+}
+
+body {
+    background-color: rgb(212, 158, 158);
+}

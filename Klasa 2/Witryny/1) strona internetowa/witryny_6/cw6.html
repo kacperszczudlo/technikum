@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="cw6.css">
+</head>
+
+<body>
+    <form onsubmit="return false" oninput="o.value = parseInt(a.value) + parseInt(b.value)">
+        <label>pole służące do dodawania liczb</label>
+        <input name="a" type="number" step="any"> +
+        <input name="b" type="number" step="any"> =
+        <output name="o"></output>
+    </form><br>
+    <form onsubmit="return false" oninput="o.value = parseInt(a.value) - parseInt(b.value)">
+        <label>pole służące do odejmowania liczb</label>
+        <input name="a" type="number" step="any"> -
+        <input name="b" type="number" step="any"> =
+        <output name="o"></output>
+    </form><br>
+    <form onsubmit="return false" oninput="o.value = parseInt(a.value) * parseInt(b.value)">
+        <label>pole służące do mnożenia liczb</label>
+        <input name="a" type="number" step="any"> *
+        <input name="b" type="number" step="any"> =
+        <output name="o"></output>
+    </form><br>
+    <form onsubmit="return false" oninput="o.value = parseInt(a.value) / parseInt(b.value)">
+        <label>pole służące do dzielenia liczb</label>
+        <input name="a" type="number" step="any"> /
+        <input name="b" type="number" step="any"> =
+        <output name="o"></output>
+    </form><br>
+    <form action="*">
+        <label>pole służące do wyszukiwania treści</label> <input type="search" required/>
+    </form><br>
+    <form action="*">
+        <label>pole akceptujące jedynie wartości liczbowe</label> <input type="number" />
+    </form><br>
+    <form action="*">
+        <label>suwak rangi</label> <input type="range" />
+    </form><br>
+    <form action="*">
+        <label>pole służące do pobierania koloru</label> <input type="color" />
+    </form><br>
+    <form action="*">
+        <label>pole służące do wprowadzania telefonu</label> <input type="tel" pattern="[0-9]{9}" />
+    </form><br>
+    <form action="*">
+        <label>pole do wprowadzania adresu url</label> <input type="url" min="1" max="15" />
+    </form><br>
+    <form action="*">
+        <label>pole służące do wprowadzania emaila</label> <input type="email" />
+    </form><br>
+    <form action="*">
+        <label>pole do wprowadzania/wybierania daty</label> <input type="date" />
+    </form><br>
+    <form action="*">
+        <label>pole do wprowadzania/wybierania miesiąca</label> <input type="month" />
+    </form><br>
+    <form action="*">
+        <label>pole do wprowadzania/wybierania tygodnia</label> <input type="week" />
+    </form><br>
+    <form action="*">
+        <label>pole do wprowadzania/wybierania czasu</label> <input type="time" />
+    </form><br>
+    <form action="*">
+        <label>pole do wprowadzania/wybierania daty i czasu</label> <input type="datetime" />
+    </form><br>
+    <form action="*">
+        <label>pole do wprowadzania/wybierania daty i czasu</label> <input type="datetime-loca" />
+    </form><br>
+</body>
+
+</html>

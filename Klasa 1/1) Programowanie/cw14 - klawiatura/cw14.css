@@ -1,0 +1,7 @@
+body{
+    background-color: rgb(140, 151, 153);
+    text-align: center;
+}
+textarea{
+    resize: none;
+}

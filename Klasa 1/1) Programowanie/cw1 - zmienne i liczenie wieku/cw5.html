@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Ćwiczenie 5- Operacje arytmetyczne</title>
+        <meta charset="UTF-8">
+        </head>
+        <body>
+    <!--<h1>Eeree</h1>-->
+    <h1> Operacje arytmetyczne</h1>
+        <script type="text/javascript">
+    let a = parseFloat(prompt("Podaj a: ", "8"));
+    console.log("Wartość: "+a+" typ: "+typeof(a));
+    let b =  parseFloat(prompt("Podaj b: ", "4"));
+    console.log("Wartość: "+b+" typ: "+typeof(b));
+
+    if(isNaN(a)) {
+        document.write("<h2 style= 'color:red';>Błędne dane</h2>");
+    }
+    if(isNaN(b)) {
+        document.write("<h2 style= 'color:red';>Błędne dane</h2>");
+    }  
+   else if (b==0) {
+    document.write("<h2 style= 'color:blue';>Poprawne dane</h2>");
+document.write("<div>"+a+" + "+b+" = "+(a+b)+"</div>" );
+document.write("<div>"+a+" - "+b+" = "+(a-b)+"</div>" );
+document.write("<div>"+a+" * "+b+" = "+(a*b)+"</div>" );
+document.write("<div>NIE MOŻNA DZIELIC PRZEZ ZERO</div>" );
+   }     
+   else  {
+    document.write("<h2 style= 'color:blue';>Poprawne dane</h2>");
+document.write("<div>"+a+" + "+b+" = "+(a+b)+"</div>" );
+document.write("<div>"+a+" - "+b+" = "+(a-b)+"</div>" );
+document.write("<div>"+a+" * "+b+" = "+(a*b)+"</div>" );
+document.write("<div>"+a+" / "+b+" = "+(a/b)+"</div>" );
+   }     
+    </script>
+       </body>
+       </html>

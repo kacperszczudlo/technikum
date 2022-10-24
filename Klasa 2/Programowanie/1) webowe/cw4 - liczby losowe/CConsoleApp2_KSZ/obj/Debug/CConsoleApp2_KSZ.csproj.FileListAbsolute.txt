@@ -1,0 +1,4 @@
+F:\!SQL\Klasa 2\Programowanie\C++ -PHP\4_desk_2TIP_G_KSZ\CConsoleApp2_KSZ\obj\Debug\CConsoleApp2_KSZ.csprojAssemblyReference.cache
+F:\!SQL\Klasa 2\Programowanie\C++ -PHP\4_desk_2TIP_G_KSZ\CConsoleApp2_KSZ\obj\Debug\CConsoleApp2_KSZ.csproj.CoreCompileInputs.cache
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\4_desk_2TIP_G_KSZ\CConsoleApp2_KSZ\obj\Debug\CConsoleApp2_KSZ.csprojAssemblyReference.cache
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\4_desk_2TIP_G_KSZ\CConsoleApp2_KSZ\obj\Debug\CConsoleApp2_KSZ.csproj.CoreCompileInputs.cache

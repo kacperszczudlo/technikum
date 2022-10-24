@@ -1,0 +1,92 @@
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\bin\Debug\netcoreapp3.1\appsettings.json
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\bin\Debug\netcoreapp3.1\Cw2Empty.exe
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\bin\Debug\netcoreapp3.1\Cw2Empty.deps.json
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\bin\Debug\netcoreapp3.1\Cw2Empty.runtimeconfig.json
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\bin\Debug\netcoreapp3.1\Cw2Empty.runtimeconfig.dev.json
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\bin\Debug\netcoreapp3.1\Cw2Empty.dll
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\bin\Debug\netcoreapp3.1\Cw2Empty.pdb
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.AssemblyInfoInputs.cache
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.AssemblyInfo.cs
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.csproj.CoreCompileInputs.cache
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.MvcApplicationPartsAssemblyInfo.cache
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.RazorTargetAssemblyInfo.cache
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\obj\Debug\netcoreapp3.1\staticwebassets\Cw2Empty.StaticWebAssets.Manifest.cache
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\obj\Debug\netcoreapp3.1\staticwebassets\Cw2Empty.StaticWebAssets.xml
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.dll
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.pdb
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.genruntimeconfig.cache
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\bin\Debug\netcoreapp3.1\Cw2Empty.Views.dll
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\bin\Debug\netcoreapp3.1\Cw2Empty.Views.pdb
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.RazorAssemblyInfo.cache
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.RazorAssemblyInfo.cs
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.TagHelpers.input.cache
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.TagHelpers.output.cache
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.RazorCoreGenerate.cache
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.RazorTargetAssemblyInfo.cs
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.Views.pdb
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.csproj.CopyComplete
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\obj\Debug\netcoreapp3.1\Razor\Pages\Nowa1.cshtml.g.cs
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\obj\Debug\netcoreapp3.1\Razor\Pages\Nowa2.cshtml.g.cs
+D:\zdalne\zdalneNiepo2020\webowe2tiGim\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.csprojAssemblyReference.cache
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\5_Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.csprojAssemblyReference.cache
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\5_Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.AssemblyInfoInputs.cache
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\5_Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.AssemblyInfo.cs
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\5_Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.csproj.CoreCompileInputs.cache
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\5_Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.MvcApplicationPartsAssemblyInfo.cache
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\5_Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.RazorAssemblyInfo.cache
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\5_Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.RazorAssemblyInfo.cs
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\5_Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.TagHelpers.input.cache
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\5_Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.TagHelpers.output.cache
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\5_Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.RazorCoreGenerate.cache
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\5_Cw2Empty\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\5_Cw2Empty\obj\Debug\netcoreapp3.1\Razor\Pages\Nowa1.cshtml.g.cs
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\5_Cw2Empty\obj\Debug\netcoreapp3.1\Razor\Pages\Nowa2.cshtml.g.cs
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\5_Cw2Empty\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\5_Cw2Empty\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\5_Cw2Empty\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\5_Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.RazorTargetAssemblyInfo.cache
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\5_Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.RazorTargetAssemblyInfo.cs
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\5_Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.dll
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\5_Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.pdb
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\bin\Debug\netcoreapp3.1\appsettings.json
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\bin\Debug\netcoreapp3.1\Cw2Empty.exe
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\bin\Debug\netcoreapp3.1\Cw2Empty.deps.json
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\bin\Debug\netcoreapp3.1\Cw2Empty.runtimeconfig.json
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\bin\Debug\netcoreapp3.1\Cw2Empty.runtimeconfig.dev.json
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\bin\Debug\netcoreapp3.1\Cw2Empty.dll
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\bin\Debug\netcoreapp3.1\Cw2Empty.pdb
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\bin\Debug\netcoreapp3.1\Cw2Empty.Views.dll
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\bin\Debug\netcoreapp3.1\Cw2Empty.Views.pdb
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.csprojAssemblyReference.cache
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.AssemblyInfoInputs.cache
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.AssemblyInfo.cs
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.csproj.CoreCompileInputs.cache
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.MvcApplicationPartsAssemblyInfo.cache
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.RazorAssemblyInfo.cache
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.RazorAssemblyInfo.cs
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.TagHelpers.input.cache
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.TagHelpers.output.cache
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.RazorCoreGenerate.cache
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\obj\Debug\netcoreapp3.1\Razor\Pages\Nowa1.cshtml.g.cs
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\obj\Debug\netcoreapp3.1\Razor\Pages\Nowa2.cshtml.g.cs
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.RazorTargetAssemblyInfo.cache
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.RazorTargetAssemblyInfo.cs
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.Views.pdb
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\obj\Debug\netcoreapp3.1\staticwebassets\Cw2Empty.StaticWebAssets.Manifest.cache
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\obj\Debug\netcoreapp3.1\staticwebassets\Cw2Empty.StaticWebAssets.xml
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.dll
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.pdb
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.genruntimeconfig.cache
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\zdalne\Cw2Empty\obj\Debug\netcoreapp3.1\Cw2Empty.csproj.CopyComplete

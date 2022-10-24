@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Lista kontrolna</title>
+</head>
+<body>
+       <!--
+        utworzenie konta
+        walidacja obligatoryjnosci pol w kwestionariuszu
+        zgody marketingowe
+        autoryzacja sms
+        autoryzacja e-mail
+        logowanie przy uzyciu blednych danych
+        edycja danych klienta
+        odzyskiwanie hasla
+        dodanie karty kredytowej
+        wysylanie wiadomosci
+        czat z biurem obslugi klienta
+        usuwanie konta
+        
+    -->
+    <div class="lista">
+        <b><p>Prosty formularz logowania</p></b>
+        <div class="form-group">
+            <label>login</label>
+            <input type="text" name="username" class="form-control" placeholder="wpisz login" id="username">
+        </div>
+        <div class="form-group">
+            <label>hasło</label>
+            <input type="text" name="password" class="form-control" placeholder="wpisz hasło" id="password">
+        </div><br>
+        
+        <button type="submit" class="c" onclick="getInfo()" id="button">Loguj</button><br><br>
+        <script>
+//deklarujemy zmienne: username i password
+var objPeople = [
+    {
+        username: "Kacper",
+        password: "123"
+    },
+    {
+        username: "Jacob",
+        password: "1234"
+    },
+    {
+        username: "Krzychu",
+        password: "12345"
+    }
+]
+/******************************************************
+nazwa funkcji: getInfo()
+argumenty: <brak>
+typ zwracany: string, jeśli poprawny login i hasło: alert(username + " jestes zalogowany!"); 
+                      jesli nie poprany login lub hasło: alert("Niepoprawny uzytkownik lub haslo");
+informacje: funckja getInfo() sprawdza czy username i password jest poprane z objPeople
+autor: Kacper Szczudło
+*****************************************************/
+function getInfo(){
+    var username = document.getElementById("username").value;
+    var password = document.getElementById("password").value;
+
+    for (var i = 0; i < objPeople.length; i++){
+        if ( username == objPeople[i].username
+            && password == objPeople[i].password){
+                alert(username + " jestes zalogowany!");
+                console.log(username + " jestes zalogowany!");
+                return;
+            }
+            alert("Niepoprawny uzytkownik lub haslo");
+            console.log("Niepoprawny uzytkownik lub haslo");
+            return;
+    }
+}
+    
+        </script>
+        <button><a href="./rejestrowanie/index.php">Zajerestruj się</a></button>
+        <button><a href="./password/password.php">Nie pamiętasz hasła?</a></button>
+    </div>
+
+</body>
+</html>

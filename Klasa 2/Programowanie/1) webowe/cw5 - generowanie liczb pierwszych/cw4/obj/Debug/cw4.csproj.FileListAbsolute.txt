@@ -1,0 +1,14 @@
+D:\2TIP_G\Visual studio\desktopowe\cw4\cw4\obj\Debug\cw4.csprojAssemblyReference.cache
+D:\2TIP_G\Visual studio\desktopowe\cw4\cw4\obj\Debug\cw4.csproj.CoreCompileInputs.cache
+D:\2TIP_G\Visual studio\desktopowe\cw4\cw4\bin\Debug\cw4.exe.config
+D:\2TIP_G\Visual studio\desktopowe\cw4\cw4\bin\Debug\cw4.exe
+D:\2TIP_G\Visual studio\desktopowe\cw4\cw4\bin\Debug\cw4.pdb
+D:\2TIP_G\Visual studio\desktopowe\cw4\cw4\obj\Debug\cw4.exe
+D:\2TIP_G\Visual studio\desktopowe\cw4\cw4\obj\Debug\cw4.pdb
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\4_zadanie\cw4\bin\Debug\cw4.exe.config
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\4_zadanie\cw4\bin\Debug\cw4.exe
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\4_zadanie\cw4\bin\Debug\cw4.pdb
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\4_zadanie\cw4\obj\Debug\cw4.csprojAssemblyReference.cache
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\4_zadanie\cw4\obj\Debug\cw4.csproj.CoreCompileInputs.cache
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\4_zadanie\cw4\obj\Debug\cw4.exe
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\4_zadanie\cw4\obj\Debug\cw4.pdb

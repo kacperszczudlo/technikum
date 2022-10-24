@@ -1,0 +1,21 @@
+F:\!SQL\Klasa 2\Programowanie\C++\Console_2TIP_G_KSZ\Console_2TIP_G_KSZ\obj\Debug\Console_2TIP_G_KSZ.csprojAssemblyReference.cache
+F:\!SQL\Klasa 2\Programowanie\C++\Console_2TIP_G_KSZ\Console_2TIP_G_KSZ\obj\Debug\Console_2TIP_G_KSZ.csproj.CoreCompileInputs.cache
+F:\!SQL\Klasa 2\Programowanie\C++\Console_2TIP_G_KSZ\Console_2TIP_G_KSZ\bin\Debug\Console_2TIP_G_KSZ.exe.config
+F:\!SQL\Klasa 2\Programowanie\C++\Console_2TIP_G_KSZ\Console_2TIP_G_KSZ\bin\Debug\Console_2TIP_G_KSZ.exe
+F:\!SQL\Klasa 2\Programowanie\C++\Console_2TIP_G_KSZ\Console_2TIP_G_KSZ\bin\Debug\Console_2TIP_G_KSZ.pdb
+F:\!SQL\Klasa 2\Programowanie\C++\Console_2TIP_G_KSZ\Console_2TIP_G_KSZ\obj\Debug\Console_2TIP_G_KSZ.exe
+F:\!SQL\Klasa 2\Programowanie\C++\Console_2TIP_G_KSZ\Console_2TIP_G_KSZ\obj\Debug\Console_2TIP_G_KSZ.pdb
+F:\!SQL\Klasa 2\Programowanie\C++ -PHP\Console_2TIP_G_KSZ\Console_2TIP_G_KSZ\bin\Debug\Console_2TIP_G_KSZ.exe.config
+F:\!SQL\Klasa 2\Programowanie\C++ -PHP\Console_2TIP_G_KSZ\Console_2TIP_G_KSZ\bin\Debug\Console_2TIP_G_KSZ.exe
+F:\!SQL\Klasa 2\Programowanie\C++ -PHP\Console_2TIP_G_KSZ\Console_2TIP_G_KSZ\bin\Debug\Console_2TIP_G_KSZ.pdb
+F:\!SQL\Klasa 2\Programowanie\C++ -PHP\Console_2TIP_G_KSZ\Console_2TIP_G_KSZ\obj\Debug\Console_2TIP_G_KSZ.csprojAssemblyReference.cache
+F:\!SQL\Klasa 2\Programowanie\C++ -PHP\Console_2TIP_G_KSZ\Console_2TIP_G_KSZ\obj\Debug\Console_2TIP_G_KSZ.csproj.CoreCompileInputs.cache
+F:\!SQL\Klasa 2\Programowanie\C++ -PHP\Console_2TIP_G_KSZ\Console_2TIP_G_KSZ\obj\Debug\Console_2TIP_G_KSZ.exe
+F:\!SQL\Klasa 2\Programowanie\C++ -PHP\Console_2TIP_G_KSZ\Console_2TIP_G_KSZ\obj\Debug\Console_2TIP_G_KSZ.pdb
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\3_Console_2TIP_G_KSZ\Console_2TIP_G_KSZ\bin\Debug\Console_2TIP_G_KSZ.exe.config
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\3_Console_2TIP_G_KSZ\Console_2TIP_G_KSZ\bin\Debug\Console_2TIP_G_KSZ.exe
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\3_Console_2TIP_G_KSZ\Console_2TIP_G_KSZ\bin\Debug\Console_2TIP_G_KSZ.pdb
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\3_Console_2TIP_G_KSZ\Console_2TIP_G_KSZ\obj\Debug\Console_2TIP_G_KSZ.csprojAssemblyReference.cache
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\3_Console_2TIP_G_KSZ\Console_2TIP_G_KSZ\obj\Debug\Console_2TIP_G_KSZ.csproj.CoreCompileInputs.cache
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\3_Console_2TIP_G_KSZ\Console_2TIP_G_KSZ\obj\Debug\Console_2TIP_G_KSZ.exe
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\3_Console_2TIP_G_KSZ\Console_2TIP_G_KSZ\obj\Debug\Console_2TIP_G_KSZ.pdb

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--
+       Zaprogramowac:
+      -Komunikat pytający o imie
+      -Komunikta pytający o wiek
+                                <18 lat "musisz opuścić stronę"
+                                >18 lat "Możesz otworzyć stronę"
+-->
+
+<head>
+      <title>Zadanie wiek</title>
+      <meta charset="UTF-8">
+
+</head>
+
+<body>
+      <h1>Cwiczenie 3</h1>
+      <script type="text/javascript">
+            let imie = prompt("Podaj imie:", "Kacper");
+            console.log("wartość: " + imie + " typ: " + typeof (imie));
+            if (imie==null) { //gdy pole imie jest niewypełnione
+                  document.write("<h2 style= 'color:red;'>Nie podano imienia</h2");
+            }
+            else if (imie.length < 1) {
+                  document.write("<h2 style= 'color:green'>Nie podano imienia</h2>");
+            }      
+            else if (imie.length > 2) {
+                        document.write("<h2 style= 'color:green'>Witamy miłego kożystania z naszej strony</h2>");
+                  }
+            else if (imie.trim) { //gdy dasz spacje
+                  document.write("<h2 style= 'color:yellow'>Nie podano imienia</h2>");
+            }
+            let wiek = parseInt(prompt("Podaj wiek:", 0)); //parseInt zmienia typ zapisu z string na number
+            if (!isNaN(wiek))  //Komenda sprawdzająca czy "wiek" to typ number 
+      {
+                  console.log("wartość: " + wiek + " typ: " + typeof (wiek));
+                  document.write("<h2>Witaj " + imie + "</h2>")
+                  if (wiek.length < 1) {
+                        document.write("<h2 style= 'color:red;'>Nie podano wieku</h2");
+                  }
+                  else if (wiek.length > 2) {
+                        document.write("<h2 style= 'color:green'>Jesteś za stary na te strony</h2>");
+                  }
+                  else if (wiek < 18) {
+                        document.write("<h2 style= 'color:Blue'>Jesteś za młody na zawartość tej strony</h2>");
+                  }
+                  else if (wiek > 18) {
+                        document.write("<h2 style= 'color:Blue'>Możesz cieszyć się stroną</h2>");
+                  }
+
+            }else{
+                  document.write("<br><h2 style= 'color:red'>Błędny wiek</h2>");
+            }
+           
+      </script>
+</body>
+
+</html>

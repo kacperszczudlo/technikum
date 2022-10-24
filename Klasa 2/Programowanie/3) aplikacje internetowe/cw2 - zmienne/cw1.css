@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: rgb(236, 212, 212);
+
+}
+h2{
+    color:rgb(5, 99, 250)
+}
+.ramka {
+    border: solid 1px green;
+    padding: 10px;
+}

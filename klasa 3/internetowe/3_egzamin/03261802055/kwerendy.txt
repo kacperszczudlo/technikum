@@ -1,0 +1,10 @@
+Zadanie 1
+SELECT id, tytul, tresc FROM `ogloszenie` WHERE kategoria="1" 
+
+Zadnie 2
+
+Zadanie 3
+CREATE USER `moderator`@`localhost`IDENTIFIED BY 'qwerty' 
+
+Zadanie 4
+GRANT DELETE, SELECT ON `3ti_ark2_baza_2021_22`.ogloszenie TO moderator@localhost 

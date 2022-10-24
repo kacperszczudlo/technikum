@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600354738 source:d:\1tpg\c++\aplikacja\aplikacja\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+

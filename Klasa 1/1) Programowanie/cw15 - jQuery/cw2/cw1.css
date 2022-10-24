@@ -1,0 +1,32 @@
+body { 
+    font-family: Verdana, sans-serif;
+    background-color: rgb(219, 193, 209);
+}
+#MenuRozmiaru { 
+    float: left;
+    border: 1px solid rgb(255, 0, 0);
+    background-color: rgb(148, 80, 120);
+    margin: 10px 0 10px 0;
+    padding: 5px; 
+}
+#MenuRozmiaru #rozmiar1 { 
+    font-size: 11px; 
+}
+#MenuRozmiaru #rozmiar2 { 
+    font-size: 13px;
+}
+#MenuRozmiaru #rozmiar3 { 
+    font-size: 15px; 
+}
+.lit { 
+    display: inline;
+     text-decoration: underline; 
+     cursor: pointer;
+     }
+.selected { 
+    font-weight: bold;
+}
+.txt {
+     clear: both;
+      font-size: 11px;
+}

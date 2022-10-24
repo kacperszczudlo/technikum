@@ -1,0 +1,21 @@
+.div_1,
+.div_2 {
+    width: 100px;
+    height: 100px;
+}
+
+.div_1 {
+    left: 50px;
+    top: 100px;
+    background-color: black;
+}
+
+.div_2 {
+    left: 100px;
+    top: 200px;
+    background-color: red;
+}
+
+body {
+    background-color: rgb(212, 158, 158);
+}

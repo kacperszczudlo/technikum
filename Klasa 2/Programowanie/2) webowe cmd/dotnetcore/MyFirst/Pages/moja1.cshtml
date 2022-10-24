@@ -1,0 +1,14 @@
+﻿@page
+@model MyApp.Namespace.moja1Model
+
+@{
+}
+<div class="badge-info">
+    To jest moja strona
+</div>
+@{List<string> lista = new List<string>{"white","green","blue","yellow"};}
+<select id ="colors">
+    @foreach (var color in lista){
+        <option value ='@color'>@color</option>
+    }
+</select>

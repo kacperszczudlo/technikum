@@ -1,0 +1,14 @@
+F:\!SQL\ZAWODOWE\Klasa 2\C++\console2TIP_G_cw1\console2TIP_G_cw1\bin\Debug\console2TIP_G_cw1.exe.config
+F:\!SQL\ZAWODOWE\Klasa 2\C++\console2TIP_G_cw1\console2TIP_G_cw1\bin\Debug\console2TIP_G_cw1.exe
+F:\!SQL\ZAWODOWE\Klasa 2\C++\console2TIP_G_cw1\console2TIP_G_cw1\bin\Debug\console2TIP_G_cw1.pdb
+F:\!SQL\ZAWODOWE\Klasa 2\C++\console2TIP_G_cw1\console2TIP_G_cw1\obj\Debug\console2TIP_G_cw1.csprojAssemblyReference.cache
+F:\!SQL\ZAWODOWE\Klasa 2\C++\console2TIP_G_cw1\console2TIP_G_cw1\obj\Debug\console2TIP_G_cw1.csproj.CoreCompileInputs.cache
+F:\!SQL\ZAWODOWE\Klasa 2\C++\console2TIP_G_cw1\console2TIP_G_cw1\obj\Debug\console2TIP_G_cw1.exe
+F:\!SQL\ZAWODOWE\Klasa 2\C++\console2TIP_G_cw1\console2TIP_G_cw1\obj\Debug\console2TIP_G_cw1.pdb
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\2_console2TIP_G_cw1\console2TIP_G_cw1\bin\Debug\console2TIP_G_cw1.exe.config
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\2_console2TIP_G_cw1\console2TIP_G_cw1\bin\Debug\console2TIP_G_cw1.exe
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\2_console2TIP_G_cw1\console2TIP_G_cw1\bin\Debug\console2TIP_G_cw1.pdb
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\2_console2TIP_G_cw1\console2TIP_G_cw1\obj\Debug\console2TIP_G_cw1.csprojAssemblyReference.cache
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\2_console2TIP_G_cw1\console2TIP_G_cw1\obj\Debug\console2TIP_G_cw1.csproj.CoreCompileInputs.cache
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\2_console2TIP_G_cw1\console2TIP_G_cw1\obj\Debug\console2TIP_G_cw1.exe
+D:\!SQL\Klasa 2\Programowanie\Visual Studio 19 C++ -PHP\2_console2TIP_G_cw1\console2TIP_G_cw1\obj\Debug\console2TIP_G_cw1.pdb

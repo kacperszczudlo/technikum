@@ -1,0 +1,9 @@
+﻿  ConsoleApplication_Odczyt_z_pliku.cpp
+F:\klasa 3\obiektowe\1_ConsoleApplication_Odczyt_z_pliku\ConsoleApplication_Odczyt_z_pliku\ConsoleApplication_Odczyt_z_pliku.cpp(25,37): error C2664: „int fscanf(FILE *const ,const char *const ,...)”: nie można dokonać konwersji argumentu 1 z „std::ifstream” do „FILE *const ”
+F:\klasa 3\obiektowe\1_ConsoleApplication_Odczyt_z_pliku\ConsoleApplication_Odczyt_z_pliku\ConsoleApplication_Odczyt_z_pliku.cpp(25,19): message : Nie jest dostępny żaden operator konwersji zdefiniowany przez użytkownika, który mógłby wykonać tę konwersję lub operator nie może zostać wywołany
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(1199,37): message : zobacz deklarację „fscanf”
+F:\klasa 3\obiektowe\1_ConsoleApplication_Odczyt_z_pliku\ConsoleApplication_Odczyt_z_pliku\ConsoleApplication_Odczyt_z_pliku.cpp(30,34): error C2061: błąd składniowy: identyfikator „Student”
+F:\klasa 3\obiektowe\1_ConsoleApplication_Odczyt_z_pliku\ConsoleApplication_Odczyt_z_pliku\ConsoleApplication_Odczyt_z_pliku.cpp(30,10): error C2365: "MyReadFile": zmiana definicji; definicja poprzednia była "dana"
+F:\klasa 3\obiektowe\1_ConsoleApplication_Odczyt_z_pliku\ConsoleApplication_Odczyt_z_pliku\ConsoleApplication_Odczyt_z_pliku.cpp(22): message : zobacz deklarację „MyReadFile”
+F:\klasa 3\obiektowe\1_ConsoleApplication_Odczyt_z_pliku\ConsoleApplication_Odczyt_z_pliku\ConsoleApplication_Odczyt_z_pliku.cpp(30,52): error C2333: "MyReadFile": błąd w deklaracji funkcji; pomijanie treści funkcji
+F:\klasa 3\obiektowe\1_ConsoleApplication_Odczyt_z_pliku\ConsoleApplication_Odczyt_z_pliku\ConsoleApplication_Odczyt_z_pliku.cpp(8): fatal error C1075: „{”: nie znaleziono zgodnego tokenu

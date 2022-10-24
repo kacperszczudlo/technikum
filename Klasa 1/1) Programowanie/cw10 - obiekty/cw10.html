@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Obiekty - wstęp</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+    <body>
+    <h1>Obiekty - wstęp</h1>
+    </body>
+    <script type="text/javascript">
+    let a = "już za chwilę ferie";
+    document.write(typeof(a)+"<br>");
+    document.write(a.italics()+"<br>");
+    document.write(a.toUpperCase()+"<br>");
+    document.write((new Date()).toLocaleDateString()+"<br>");
+    document.write((new Date()).toLocaleTimeString()+"<br>");
+    
+
+    const ul = {
+        imie: "Tomasz",
+        nazwisko: "Bomasz",
+        klasa: "1P",
+        przedstawSie: function(){
+            return "<hr>Informacja o uczniu: "+this.imie+" "+this.nazwisko+" "+this.klasa;
+        }
+    };
+    console.log(ul);
+    document.write(ul.przedstawSie());
+    //drugi sposób tworzenia obiektów
+    function book(title,author,year,pages){
+        this.title = title;
+        this.author = author;
+        this.year = year;
+        this.pages = pages;
+        this.show = function(){
+            return "Informacja o książce: "+this.title+" autor: "+this.author+" rok wydania: "+this.year+" ilość stron: "+this.pages+"<hr>";
+        }
+    }
+    const b1 = new book("Zaraz obiadek","mama",2020,2);
+    const b2 = new book("Teraz czas wolny","ja",2020,5);
+    document.write(b1.show());
+    document.write(b2.show());
+    function samochod(name,color,year,pages){
+        this.name = name;
+        this.color = color;
+        this.year = year;
+        this.pages = pages;
+        this.show = function(){
+            return "Informacja o samochcodzie: "+this.name+" color: "+this.color+" rok wydania: "+this.year+" ilość sztuk: "+this.pages+"<hr>";
+        }
+    }
+    const s1 = new samochod("Marcedes","biały",2020,2000000);
+    const s2 = new samochod("BMW","czarny",2020,500000);
+    const s3 = new samochod("Tesla","chromowany",2020,70000000);
+    document.write(s1.show());
+    document.write(s2.show());
+    document.write(s3.show());
+    //trzeci sposób tworzenia obiektów
+    class Game{
+        constructor(title,price,genre){
+            this.title = title;
+            this.price = price;
+            this.genre = gnere;
+        }
+        info(){
+            return " Gra: "+this.title+" cena: "+this.price+" zł rodzaj: "
+            +this.genre+"<br>";
+        }
+        priceVAT = () => {
+            return "VAT wynosi: "+(0.23*this.price);
+        }
+    }
+    let suma = (a,b)=>{return a+b}
+    const g1 = new Game("FIFA 2019",100,"sportowa");
+    document.write(g1.info());
+    document.write(g1.priceVAT());
+    </script>
+</html>

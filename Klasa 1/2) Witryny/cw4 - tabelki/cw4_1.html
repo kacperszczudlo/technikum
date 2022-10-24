@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ćwiczenie 4 - Tabelki</title>
+    <style>
+    table#tab1{width: 80%;border-collapse:collapse;}
+    table#tab1 th,td{border: black solid 1px; padding:5px;}
+    table#tab1 tr:nth-child(even){background-color: cornflowerblue;}
+    table#tab1 tr:nth-child(odd){background-color: greenyellow; color: blue;}
+    table#tab1 caption{color: darkcyan;padding: 5px;font-weight: 700;}
+    table#tab2{width: 80%;border-collapse:collapse;}
+    table#tab2 th,td{border: grey dashed 1px; padding:5px;}
+    thead {color:green;}
+    tbody {color:blue;}
+    tfoot {color:red;}
+    </style>
+</head>
+<body>
+    <table id="tab1">
+        <caption>Moja pierwsza tabela w HTML</caption>
+        <thead>
+        <tr>
+<td>Nagłówek tabeli kol:1</td>
+<td>Nagłówek tabeli kol:2</td>
+<td>Nagłówek tabeli kol:3</td>
+<td>Nagłówek tabeli kol:4</td>
+<td>Nagłówek tabeli kol:5</td>
+<td>Nagłówek tabeli kol:6</td>
+        </tr>
+</thead>
+<tbody>
+        <tr>
+<td>Pierwszy wiersz tabelki</td>
+<td>Pierwszy wiersz tabelki</td>
+<td>Pierwszy wiersz tabelki</td>
+<td>Pierwszy wiersz tabelki</td>
+<td>Pierwszy wiersz tabelki</td>
+<td>Pierwszy wiersz tabelki</td>
+        </tr>
+</tbody>
+<tfoot>
+        <tr>
+<td>Drugi wiersz tabelki</td>
+<td>Drugi wiersz tabelki</td>
+<td>Drugi wiersz tabelki</td>
+<td>Drugi wiersz tabelki</td>
+<td>Drugi wiersz tabelki</td>
+<td>Drugi wiersz tabelki</td>
+        </tr>
+</tfoot>
+        <tr>
+<td>Trzeci wiersz tabelki</td>
+<td>Trzeci wiersz tabelki</td>
+<td>Trzeci wiersz tabelki</td>
+<td>Trzeci wiersz tabelki</td>
+<td>Trzeci wiersz tabelki</td>
+<td>Trzeci wiersz tabelki</td>
+        </tr>
+        <tr>
+<td colspan="2">Czwarty wiersz tabelki</td>
+<td>Czwarty wiersz tabelki</td>
+<td>Czwarty wiersz tabelki</td>
+<td>Czwarty wiersz tabelki</td>
+<td>Czwarty wiersz tabelki</td>
+        </tr>
+    </table>
+    <table id="tab2">
+        <colgroup>
+        <col span="2" syle="background-color: red">
+        <col style="background-color:yellow">
+        <col style="background-color: red">
+        </colgroup>   
+        <tr>
+                    <td>Komórka danych</td>
+                    <td>Komórka danych</td>
+                    <td>Komórka danych</td>
+                    <td>Komórka danych</td>
+            </tr>
+            <tr>
+                <td>Komórka danych</td>
+                <td>Komórka danych</td>
+                <td>Komórka danych</td>
+                <td>Komórka danych</td>
+            </tr>
+            <tr>
+                <td>Komórka danych</td>
+                <td>Komórka danych</td>
+                <td>Komórka danych</td>
+                <td>Komórka danych</td>
+            </tr>
+            <tr>
+                <td>Komórka danych</td>
+                <td>Komórka danych</td>
+                <td>Komórka danych</td>
+                <td>Komórka danych</td>
+            </tr>
+            <tr>
+                <td>Komórka danych</td>
+                <td>Komórka danych</td>
+                <td>Komórka danych</td>
+                <td>Komórka danych</td>
+            </tr>
+    </table>
+</body>
+</html>

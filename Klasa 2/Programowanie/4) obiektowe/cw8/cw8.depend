@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602072968 source:d:\2tip_g\code block\cw8\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
