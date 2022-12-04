@@ -1,3 +1,0 @@
-﻿  WyszukiwanieLinioweWartownik.cpp
-E:\student\pulpit\WyszukiwanieLinioweWartownik\WyszukiwanieLinioweWartownik\WyszukiwanieLinioweWartownik.cpp(30,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  WyszukiwanieLinioweWartownik.vcxproj -> E:\student\pulpit\WyszukiwanieLinioweWartownik\x64\Debug\WyszukiwanieLinioweWartownik.exe

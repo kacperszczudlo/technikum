@@ -1,0 +1,4 @@
+Windows 10
+Android Studio, Visual Studio 2022
+C++, Kotlin
+Pixel 3a XL API 30
